@@ -1,5 +1,6 @@
 - hosts: all
   vars:
     testvar01: testvar01
+        - name: Debug 
     debug:
       var: testvar01
