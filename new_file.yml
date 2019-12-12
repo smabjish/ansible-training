@@ -1,5 +1,5 @@
 - hosts: all
-      vars:
-        testvar01: testvar01
-      debug:
-        var: testvar01
+  vars:
+    testvar01: testvar01
+    debug:
+      var: testvar01
