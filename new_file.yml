@@ -2,6 +2,7 @@
   vars:
     testvar01: testvar01
   tasks:
+  
     - name: Debug
       debug:
-        var: testvar01
+        var:  testvar01
